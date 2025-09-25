@@ -1,0 +1,20 @@
+---
+title: "WIDS, R Markdown + Website Demo"
+---
+
+I'm Vivian, and I like Nyan Cat and fruits.
+
+```{r}
+
+
+x = 5+2
+x
+```
+
+[Github link](https://github.com/viyendg)
+
+![Nyan Cat!](https://upload.wikimedia.org/wikipedia/en/e/ed/Nyan_cat_250px_frame.PNG)
+
+![Strawberries](https://www.gardentech.com/-/media/project/oneweb/gardentech/images/blog/how-to-grow-your-own-tasty-strawberries/strawberries-header-og.jpg?h=628&iar=0&w=1200&hash=1B53286BD9144D60921C602C873165AA)
+
+
